@@ -1,4 +1,4 @@
-# hit-android-2-second-assignment
+# HIT_Android_second_assignment
 
 Write a program in Java (or any other language if you prefer), that will implement the design pattern of thread pooling.
 Your program should start by asking the user how many threads he wants to create additionally (allow only number between 2 to 20).
